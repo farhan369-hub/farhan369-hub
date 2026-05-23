@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Mohammed Farhan,a B.Tech Computer Science Engineering (AI & ML) student passionate about Python programming, web development, and modern technology. I enjoy learning new coding skills, building creative and innovative projects, and exploring the ever-evolving world of software development. I’m continuously improving my technical knowledge, problem-solving abilities, and development skills to grow as a future software engineer. My goal is to create impactful projects, contribute to meaningful innovations, and build a successful career in the tech industry.
+I'm **Mohammed Farhan**,a B.Tech Computer Science Engineering (AI & ML) student passionate about Python programming, web development, and modern technology. I enjoy learning new coding skills, building creative and innovative projects, and exploring the ever-evolving world of software development. I’m continuously improving my technical knowledge, problem-solving abilities, and development skills to grow as a future software engineer. My goal is to create impactful projects, contribute to meaningful innovations, and build a successful career in the tech industry.
 
 <a href="https://www.linkedin.com/in/mohammed-farhan-079243372?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,7 +8,7 @@ I'm Mohammed Farhan,a B.Tech Computer Science Engineering (AI & ML) student pass
 
 - **Name**: Mohammed Farhan Pk
 - **From**: India
-- **Python** | **C++** | *HTML,CSS,JS**
+- **Python** | **C++** | **HTML,CSS,JS**
 - I’m passionate about Python programming, web development, and emerging technologies. I enjoy learning new coding skills, building creative and innovative projects, and exploring the ever-evolving world of software development. I’m constantly working to improve my technical knowledge, strengthen my problem-solving abilities, and grow as a future software engineer. My goal is to create impactful digital solutions, contribute to meaningful projects, and continue evolving in the tech industry.
 
 </details>
