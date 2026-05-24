@@ -49,8 +49,6 @@ I'm **Mohammed Farhan**,a B.Tech Computer Science Engineering (AI & ML) student 
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[FixITNow](https://github.com/farhan369-hub/FixITNow)**    | FixITNow is a mobile-based application that helps students and staff report campus infrastructure issues quickly and efficiently. It improves communication and enables faster resolution of maintenance problems within the campus. |
 
 ---
